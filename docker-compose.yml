@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+  ingest_mysql:
+    build: ./ingest_mysql
+    container_name: ingest_mysql
+    env_file:
+      - .env
+    restart: "no"
+    tty: true
+
+  ingest_postgres:
+    build: ./ingest_postgres
+    container_name: ingest_postgres
+    env_file:
+      - .env
+    restart: "no"
+    tty: true
+  
+  ingest_mongo:
+    build: ./ingest_mongo
+    container_name: ingest_mongo
+    env_file:
+      - .env
+    restart: "no"
+    tty: true
