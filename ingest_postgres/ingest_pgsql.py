@@ -1,8 +1,5 @@
 import os
 import boto3
-import psycopg2
-import pandas as pd
-from io import StringIO
 from dotenv import load_dotenv
 
 load_dotenv()

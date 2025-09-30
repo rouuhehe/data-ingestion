@@ -1,7 +1,5 @@
 import os
 import boto3
-import pandas as pd
-import mysql.connector
 from dotenv import load_dotenv
 
 load_dotenv()

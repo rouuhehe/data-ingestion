@@ -1,7 +1,6 @@
 import os
 import boto3
 from dotenv import load_dotenv
-from pymongo import MongoClient
 
 load_dotenv()
 S3_BUCKET = os.getenv("S3_BUCKET")
