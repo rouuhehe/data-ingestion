@@ -1,0 +1,401 @@
+id,name,address,city,lat,lon
+1,Cañizares & Asociados S.Coop.,"C. Isabela Araujo 62 Piso 5 
+Cáceres, 45167",Sevilla,80.019546,32.968405
+2,Comercializadora Avanzadas S.Coop.,"Ronda Luís Calvet 11
+Girona, 32485",León,38.146461,63.929498
+3,Hermanos Corral S.Com.,"Vial Xiomara Prado 80
+Cádiz, 38430",Burgos,-40.924654,104.350469
+4,Bartolomé Canet Alberdi S.L.U.,"Cañada Lisandro Nogués 57
+Lleida, 35641",Huesca,-26.307195,99.665313
+5,Promociones KPHC S.Com.,"Callejón Eufemia Manso 88
+Almería, 46556",Asturias,-26.408369,-56.756635
+6,Despacho Mora S.L.,"Urbanización de Alcides Blanes 29
+Pontevedra, 18448",Sevilla,-8.363874,-57.027202
+7,Logística Diéguez y asociados S.Coop.,"Urbanización Olivia Ortuño 146
+Madrid, 22881",Girona,67.943185,-11.808187
+8,Fábrica Alegria S.L.,"Vial de Eloy Cid 1
+Burgos, 37290",Melilla,-71.735344,-165.918317
+9,Eduardo Bustos Armas S.Com.,"C. de Alcides Verdejo 4
+Ceuta, 42929",Melilla,-71.422644,169.15949
+10,Comercializadora HXFE S.A.T.,"Pasadizo Manuelita Catalá 89
+Granada, 39683",Santa Cruz de Tenerife,54.052839,-132.883877
+11,Salamanca y Aznar S.Coop.,"Paseo de Toni Pinedo 18 Apt. 14 
+Madrid, 15234",Cáceres,-77.672224,-149.712212
+12,Martínez & Asociados S.C.P,"Plaza de Felipa Pedro 63 Piso 0 
+León, 15896",Burgos,-36.526054,12.063808
+13,Hnos Puerta S.Coop.,"Cañada Trini Nebot 55 Puerta 6 
+Barcelona, 01438",Segovia,48.691851,-155.022531
+14,Comercializadora Pinedo y asociados S.Com.,"Plaza Samanta Zabala 562 Apt. 24 
+Barcelona, 29058",Álava,-81.923667,136.006664
+15,Suministros Globales S.L.L.,"Avenida Selena Pallarès 24
+Almería, 36844",Ávila,-68.17839,-130.666147
+16,Talleres del Sur S.L.,"Pasaje de Ramiro Correa 55 Puerta 6 
+Barcelona, 45516",Madrid,68.292483,123.106251
+17,Comercializadora Cuesta & Asociados S.A.,"Pasaje de Severo Borrego 16 Apt. 87 
+Jaén, 44234",Madrid,65.023323,80.251999
+18,Despacho PRI S.Com.,"Cañada de José Tudela 91 Piso 8 
+Melilla, 32059",Cáceres,6.102634,42.949663
+19,Hernández y Folch S.A.D,"Calle de Merche Pintor 7 Puerta 7 
+Vizcaya, 03742",Ávila,6.988755,-24.383831
+20,Grupo Marín S.Coop.,"Plaza de José Mari Pareja 7
+Lleida, 20504",Teruel,51.028388,-155.775123
+21,Banca Privada Silva & Asociados S.L.,"Acceso de Coral Alegre 5 Apt. 26 
+Soria, 11685",Salamanca,-13.941168,-128.417989
+22,Infraestructuras Españolas S.Coop.,"Ronda Eustaquio Aragón 7 Piso 1 
+Cantabria, 33038",Cantabria,-82.372713,117.937362
+23,Hermanos Montenegro S.A.T.,"Cuesta de Primitiva Bayón 66 Puerta 9 
+Lugo, 23344",Cuenca,49.525022,5.16405
+24,Rosselló y Naranjo S.L.N.E,"Vial Eliana Guitart 730 Puerta 7 
+Zamora, 17978",Navarra,26.406212,41.595031
+25,Compañía TOH S.L.,"Cuesta de Tito Bejarano 402 Apt. 90 
+Córdoba, 29225",Toledo,51.456437,30.576726
+26,Restauración del Noroeste S.L.,"Calle de Juan Francisco Molins 90
+Melilla, 20523",Salamanca,-2.123305,110.153753
+27,Promociones Piña & Asociados S.L.,"Acceso de Macarena Borrell 54
+Albacete, 48784",Albacete,-76.486597,83.769045
+28,Industrias FNBM S.C.P,"Cañada Emilia Castelló 5
+Guadalajara, 27142",Ceuta,-9.372405,-175.667118
+29,Talleres ZQXR S.L.,"Paseo de Concha Alfaro 52 Apt. 27 
+Álava, 40848",Jaén,67.869687,62.213127
+30,Restauración XWRL S.L.N.E,"Paseo Isabel Manjón 48 Apt. 04 
+Ciudad, 34332",Baleares,-42.211146,145.926349
+31,Minería Luís y asociados S.Coop.,"Glorieta de Ruperto Gascón 676
+Sevilla, 41725",Tarragona,-11.373409,138.831046
+32,Ureña y asociados S.L.,"Vial Dalila Blasco 6 Piso 2 
+Granada, 51193",Lleida,-57.338887,84.503262
+33,Pomares y asociados S.Coop.,"Alameda Casemiro Seco 56 Puerta 1 
+Valencia, 35327",Álava,-36.856631,-166.030815
+34,Farmaceútica NO S.Coop.,"Pasaje de Gerardo Cazorla 4 Piso 1 
+Teruel, 28298",Santa Cruz de Tenerife,70.522012,178.60805
+35,Industrias VUO S.Com.,"Vial de Nicolás Pedrero 84
+La Coruña, 14601",Cáceres,-11.702568,-17.166514
+36,Olalla Bas Diego S.Coop.,"Pasaje de Juan José Hoyos 358 Apt. 54 
+Albacete, 04496",Ciudad,5.452232,-21.232922
+37,Comercial Arjona S.L.,"Avenida de Maura Tejada 2
+Alicante, 51147",Zaragoza,-62.296495,-135.821296
+38,Márquez y asociados S.A.,"Rambla Herminio Belda 66
+Ávila, 37173",Melilla,-17.726627,-107.188359
+39,Hnos Pagès S.L.,"Avenida Obdulia Royo 5 Puerta 8 
+Santa Cruz de Tenerife, 20801",Córdoba,47.739548,-164.253018
+40,Finanzas Iberia S.A.,"C. Pía Montesinos 78
+Zaragoza, 06562",Soria,24.049988,143.166544
+41,Nydia Mármol Echevarría S.Coop.,"Pasadizo María Carmen Manjón 18
+Sevilla, 05245",Palencia,80.24366,-21.515641
+42,Soluciones Arnaiz S.Coop.,"Pasadizo de Berta Moreno 21
+Guadalajara, 39226",Alicante,-5.93509,122.626484
+43,Pi y Bermudez S.L.,"Plaza Venceslás Jover 6 Puerta 6 
+Melilla, 24309",Cantabria,89.322509,-94.313615
+44,Banco MW S.L.,"Glorieta Estrella Franch 27 Puerta 0 
+Vizcaya, 30118",Asturias,-24.922179,-125.687632
+45,Suministros González y asociados S.L.,"Via de Begoña Armas 824 Apt. 29 
+Albacete, 11271",Zamora,40.093153,-69.167097
+46,Suarez & Asociados S.L.N.E,"Avenida de Leire Ropero 491 Piso 0 
+Sevilla, 17161",Córdoba,-55.670594,14.097825
+47,Consultoría Ortuño S.A.,"Avenida Ema Fajardo 92
+Teruel, 11794",Cádiz,-85.115304,10.389267
+48,Ernesto Fernandez Garzón S.L.N.E,"Camino de Germán Clavero 48
+Lleida, 24157",Valencia,53.23889,-148.015291
+49,Familia Tejero S.A.,"Paseo Bárbara Conde 49 Puerta 8 
+Granada, 05636",Málaga,18.156942,25.060567
+50,Comercial EBVA S.L.,"C. Ernesto Jara 36
+Lugo, 26224",Santa Cruz de Tenerife,-51.243756,-158.620211
+51,Familia Riquelme S.C.P,"Glorieta de Severo Gallo 62
+Ciudad, 05329",Álava,-72.548257,155.394319
+52,Hnos Rincón S.L.N.E,"Alameda Clotilde Prieto 130 Apt. 01 
+La Coruña, 11737",Burgos,64.586541,-78.738614
+53,Grupo Rosa S.A.,"Via de Hipólito Alemán 3
+Castellón, 02735",Tarragona,55.267212,162.859386
+54,Barrios y Zurita S.L.,"Calle de Loida Yuste 95 Piso 6 
+Las Palmas, 13507",Valencia,-47.782935,169.179752
+55,Tamarit y Andrade S.C.P,"Paseo Fabricio Almagro 11
+Badajoz, 23447",La Coruña,59.115837,157.380961
+56,Inmobiliaria Hoz S.Com.,"C. de Wálter Lucena 90 Piso 6 
+Girona, 51310",Guipúzcoa,-63.695906,134.06737
+57,Farmaceútica MYW S.Coop.,"Pasaje Calixta Andreu 6
+Palencia, 05547",Albacete,-4.408145,-53.072301
+58,Suministros Pacheco & Asociados S.Coop.,"Ronda Lalo Bru 92 Puerta 6 
+Teruel, 51987",Burgos,35.55815,-102.552195
+59,Fábrica Globales S.L.L.,"Pasadizo Pacífica Cabeza 239
+Alicante, 38906",Murcia,-76.613027,-138.203772
+60,Industrias Ortiz & Asociados S.L.,"Cuesta de Silvia Badía 59
+Burgos, 24014",Vizcaya,-1.451259,-162.476255
+61,Compañía Parra y asociados S.Com.,"Glorieta Isabela Fonseca 38
+Córdoba, 23848",Huelva,89.246597,-16.299215
+62,Manufacturas Clemente & Asociados S.Coop.,"Rambla Elías Palomar 14 Puerta 0 
+Cádiz, 14939",Teruel,-31.919725,-38.501724
+63,Inmobiliaria del Norte S.Com.,"Pasaje Vera Díaz 27 Piso 8 
+Barcelona, 41574",Valladolid,-59.895956,34.137715
+64,Comercial Colomer & Asociados S.A.U,"Calle Paca Vicente 8 Piso 5 
+Valladolid, 08337",Madrid,41.986742,-132.75075
+65,Grupo Arjona S.Com.,"Callejón Angelino Barroso 3
+Álava, 22607",Málaga,4.445574,164.020123
+66,Consultoría Folch y asociados S.L.,"Cuesta Ramiro Alberdi 89
+Castellón, 50999",Santa Cruz de Tenerife,-88.069094,54.373617
+67,Alimentación Morante S.Coop.,"Cañada Luciano Pareja 349 Apt. 71 
+Girona, 06407",Lugo,5.450913,54.998309
+68,Transportes Camps S.Coop.,"Vial de Teresa Borrego 85
+Álava, 09336",Lleida,-83.408382,168.803971
+69,Grupo Roda S.A.,"Ronda de Domingo Dávila 951
+Toledo, 29474",Cuenca,70.243987,-142.124478
+70,Maestre y asociados S.Com.,"C. Bernardo Sanmiguel 443
+Murcia, 47906",Las Palmas,56.970877,64.454142
+71,Banco EH S.L.L.,"Paseo de Leyre Saura 30 Piso 2 
+León, 29130",Tarragona,-46.910888,-98.829718
+72,Ciríaco Osuna Baena S.L.N.E,"C. de Bernardino Carnero 37 Puerta 0 
+Murcia, 42317",La Coruña,-15.321314,169.548332
+73,Telmo Barrera Ledesma S.L.U.,"Camino Mario Bayona 3
+Palencia, 28797",Cantabria,24.137767,-5.795878
+74,Catalina Llano Camacho S.Com.,"Paseo de Paca Padilla 3
+Palencia, 10331",Ourense,-8.914353,-78.184001
+75,Infraestructuras CH S.L.N.E,"Via de Mireia Barberá 34 Puerta 8 
+Cádiz, 08929",Teruel,-24.031532,97.80152
+76,Servicios Goicoechea S.L.,"Cañada Mario Gámez 72
+La Coruña, 40075",Baleares,-48.083644,73.939243
+77,Figueroa y asociados S.A.,"Cañada de Berto Segura 49
+Huesca, 18455",Ciudad,39.013507,-166.445043
+78,Vega y Donoso S.L.N.E,"Calle Roxana Salazar 8 Puerta 3 
+Cuenca, 43695",La Coruña,-81.207324,-69.836017
+79,Tecnologías Acuña y asociados S.L.N.E,"Callejón Águeda Bas 80
+Madrid, 12222",Zaragoza,-6.985852,-4.997421
+80,Reina Lledó Moles S.C.P,"Via de Demetrio Terrón 78 Puerta 1 
+Pontevedra, 45068",Ávila,-82.13651,55.115475
+81,Hnos Niño S.Com.,"Urbanización de Simón Villanueva 57
+Las Palmas, 51047",Pontevedra,-83.899726,155.669041
+82,Finanzas Reina S.Coop.,"Paseo de Claudio Sobrino 65 Puerta 1 
+Ciudad, 29454",Álava,39.38838,-26.900899
+83,Ligia Méndez Barón S.L.,"Glorieta de Rosalinda Calvet 13 Piso 0 
+Zaragoza, 02711",La Coruña,75.026297,-117.779864
+84,Consultoría AI S.L.N.E,"C. de Amor Velasco 639
+La Coruña, 40880",Guadalajara,-29.523688,93.952732
+85,Desarrollo Andres S.Com.,"Glorieta de Félix Muro 1
+Huesca, 14389",Cádiz,-62.182826,-83.993683
+86,Escudero y asociados S.Com.,"Cuesta Aurora Patiño 5 Puerta 4 
+Ceuta, 34113",Ourense,48.318502,81.735509
+87,Minería Castellana S.Com.,"Cañada de Adela Villa 561 Apt. 23 
+Melilla, 28882",Girona,-53.514797,68.397944
+88,Reynaldo Nuñez Lillo S.Com.,"Vial Sebastian Santamaria 81
+La Rioja, 36269",Valladolid,-52.401499,5.894408
+89,Bastida y asociados S.Com.,"Ronda Benita Verdejo 87
+Castellón, 40450",Albacete,-83.474199,-92.460196
+90,Logística Salamanca y asociados S.L.,"Plaza de Judith Huerta 41 Piso 9 
+Santa Cruz de Tenerife, 44969",Málaga,-69.00879,10.843751
+91,Logística Globales S.L.N.E,"Pasaje de Isaac Lago 72 Apt. 71 
+Valencia, 36330",Burgos,55.312502,-45.927836
+92,Hnos Bayón S.A.,"Rambla de Haydée Carbó 68 Piso 8 
+Almería, 51457",Ourense,0.423592,-137.259699
+93,Teruel y asociados S.Com.,"Camino Lázaro Sola 31 Apt. 32 
+Álava, 29339",Almería,-28.918079,155.482066
+94,Logística TC S.A.,"Urbanización de Rogelio Peiró 330 Piso 6 
+Guipúzcoa, 50369",Ourense,59.660229,-74.555138
+95,Bastida & Asociados S.L.,"Calle Perlita Suarez 71 Piso 4 
+Castellón, 40902",Ourense,-7.829998,-5.248791
+96,Familia Carrión S.L.U.,"Callejón Dafne Arnaiz 81
+Tarragona, 30105",Segovia,-68.82272,161.206971
+97,Inmobiliaria Inteligentes S.Coop.,"Callejón Ale Sanmartín 14
+Albacete, 24235",Cuenca,76.640626,-53.032514
+98,Farmaceútica Bárcena y asociados S.A.T.,"C. Ruperta Acosta 30 Apt. 33 
+Palencia, 09167",Teruel,65.868058,-155.980777
+99,Gonzalez y Ayala S.Coop.,"Acceso de Dionisia Téllez 552 Puerta 2 
+Madrid, 22507",Albacete,-13.519236,-81.371871
+100,Tecnologías PV S.A.T.,"Urbanización Casemiro Marco 47 Piso 2 
+Huesca, 20016",Alicante,-72.961478,-176.580166
+101,Olalla Monreal Fuentes S.Coop.,"Urbanización de Ruben Serra 342
+Guipúzcoa, 47771",Vizcaya,-31.49552,-163.536144
+102,Pallarès y Coronado S.A.,"Camino Victoria Falcón 12
+Girona, 31695",Málaga,6.791419,-77.137404
+103,Inversiones Internacionales S.Coop.,"Pasaje de Adoración Baró 2
+Baleares, 49825",Ourense,8.153956,67.914014
+104,Minería AB S.Coop.,"Urbanización de Juan Bautista Verdejo 92 Apt. 87 
+Ourense, 20604",Ciudad,16.515443,26.077399
+105,Castells y Hervás S.Coop.,"Alameda de Tecla Medina 27
+Guadalajara, 47777",Málaga,36.351782,-123.569302
+106,Supermercados UW S.L.U.,"C. de María Manuela Sotelo 1 Piso 6 
+Huesca, 24438",Granada,73.556358,-121.706732
+107,Farmaceútica WUH S.Com.,"Cañada de Aurelio Plana 798
+Salamanca, 34238",Zaragoza,-26.354623,-152.966841
+108,Agudo y Carreño S.C.P,"Ronda Vanesa Mendez 94
+León, 22055",Cádiz,-63.421573,-125.474391
+109,Hermanos Morcillo S.L.,"Acceso Francisco Rivero 17
+La Rioja, 02699",Córdoba,-86.121472,62.581154
+110,Ballester y asociados S.L.U.,"Glorieta de Mirta Hervás 20
+La Rioja, 16901",Barcelona,10.919984,-141.760775
+111,Comercializadora Internacionales S.Coop.,"Alameda Maricruz Gras 96
+Vizcaya, 32913",Córdoba,-3.041271,30.34573
+112,Aller y Benavent S.Coop.,"Vial de Josefa Cordero 3 Apt. 23 
+Badajoz, 35947",Cantabria,72.485774,57.631494
+113,Industrias Chaves & Asociados S.Coop.,"Via de Nazario Contreras 178 Apt. 52 
+Huesca, 32299",Badajoz,23.189242,-94.032052
+114,Banca Privada Raya S.Coop.,"Vial María Belén Fernandez 187 Piso 0 
+Valencia, 04484",Alicante,-44.399715,-26.027355
+115,Cobo y Cadenas S.A.,"Ronda de Edu Beltrán 476
+Ourense, 03479",Lleida,-5.098595,124.091648
+116,Carlota Rosado Almeida S.A.,"Paseo de Elisa Izquierdo 8 Puerta 4 
+Salamanca, 36817",Albacete,-34.319578,-128.060283
+117,Hermanos Espada S.Coop.,"Pasaje de Eligia Rueda 45 Puerta 6 
+Baleares, 13994",Ciudad,-89.761144,11.521228
+118,Distribuciones Lopez S.L.,"Via de Ángela Montero 71 Piso 9 
+Salamanca, 47657",Sevilla,49.175606,-69.689066
+119,Manufacturas Juliá S.Com.,"Pasaje de Vinicio Segarra 33 Puerta 3 
+Cuenca, 13981",Ourense,56.212964,-0.364987
+120,Hermanos Mendez S.Com.,"Pasaje María Luisa Abascal 49 Puerta 4 
+Granada, 34940",Álava,-34.221048,79.549143
+121,Compañía ITX S.A.,"Via Sandra Ledesma 43
+Cuenca, 50181",Palencia,-32.399776,-54.063792
+122,Cabanillas & Asociados S.L.,"Vial Zaida Puig 47
+Murcia, 21227",Tarragona,-65.670367,-118.062442
+123,Farmaceútica Cuevas S.C.P,"Cuesta Danilo Acevedo 55 Puerta 1 
+Castellón, 45908",Pontevedra,-85.829207,49.34573
+124,Construcción Ruiz & Asociados S.L.L.,"Urbanización Eugenio Sedano 54
+Santa Cruz de Tenerife, 09538",Albacete,-54.07656,-79.416433
+125,Salmerón & Asociados S.L.N.E,"Alameda de Pacífica Montaña 86 Piso 9 
+Salamanca, 11212",Málaga,-24.467691,9.396841
+126,Instalaciones Taboada S.Coop.,"Pasaje de Joaquina Expósito 17
+Baleares, 02493",Huelva,-56.512705,-130.135195
+127,Construcción Clavero & Asociados S.L.,"Calle Amado Noguera 919
+Almería, 44240",Ceuta,-79.065183,54.608916
+128,Mariano Linares Girona S.L.,"Ronda de Nacho Jaume 98 Puerta 4 
+Ciudad, 20964",Badajoz,-7.512694,78.376757
+129,Comercializadora Perera S.L.,"C. de Jonatan Hidalgo 24
+Guipúzcoa, 42291",Ceuta,-29.359897,-125.140963
+130,Minería Ibéricos S.A.,"C. Jimena Sancho 54
+Ourense, 10468",Santa Cruz de Tenerife,-69.154688,-77.298693
+131,Infraestructuras Villaverde & Asociados S.A.,"Pasadizo de Juliana Arce 74
+Guadalajara, 01040",León,53.949889,-29.862483
+132,Salas y asociados S.Coop.,"Alameda de Poncio Mora 15
+Huesca, 06547",Ourense,25.327645,-122.834425
+133,Alfonso y Calvo S.L.N.E,"Pasaje de Macario Porras 58 Puerta 9 
+Huesca, 05720",Guipúzcoa,-54.427236,177.81421
+134,Fábrica Figuerola S.A.,"Via Amando Quero 57
+Pontevedra, 21450",Jaén,71.285068,-54.454127
+135,Suministros OPH S.L.L.,"Cuesta de Teodora Gallart 1
+Albacete, 49109",Murcia,-12.7416,156.538846
+136,Desarrollo HS S.A.,"Pasadizo Georgina Bernat 85
+Huelva, 32985",Ciudad,28.750073,-77.425385
+137,Familia Cortina S.Coop.,"Camino de Bárbara Simó 342
+Toledo, 17806",Tarragona,-37.538362,-91.542608
+138,Bueno y asociados S.A.,"Ronda Felisa Bárcena 6 Piso 7 
+Málaga, 15283",Guadalajara,-61.83486,-110.039014
+139,Martín y asociados S.Coop.,"Alameda Graciela Casado 4
+Baleares, 06199",Ourense,84.560529,81.186511
+140,Benitez y Salas S.L.,"Glorieta Nuria Anguita 72
+La Coruña, 33327",Valladolid,-62.667533,-126.74577
+141,Hermanos Oliva S.L.N.E,"Plaza de Dan Vendrell 35 Puerta 7 
+Cádiz, 11023",Palencia,37.148153,16.959338
+142,Hermanos Sosa S.C.P,"Cuesta Lupe Acedo 20 Piso 0 
+Albacete, 22801",Zamora,-46.890039,-152.577843
+143,Cabeza y Losada S.Com.,"Pasadizo Hortensia Pedro 604 Piso 4 
+Huesca, 43925",Guadalajara,82.001144,23.695934
+144,Logística Gallo S.L.,"Via Paco Roca 41
+Cantabria, 36070",Girona,65.770387,-20.588936
+145,Distribuciones del Sur S.C.P,"Via de Esteban Amo 6 Piso 6 
+Albacete, 23052",Melilla,-74.084322,59.70898
+146,Grupo Rozas S.A.,"Avenida de Fermín Lucena 474 Puerta 8 
+Asturias, 36965",León,-24.141697,48.308578
+147,Instalaciones Benet y asociados S.A.,"Pasaje Teresa Amaya 34
+Córdoba, 34670",Baleares,-52.157897,25.95431
+148,Servicios del Noroeste S.L.N.E,"Glorieta de Baudelio Cortes 50 Piso 0 
+Ceuta, 08553",Salamanca,7.980066,-3.286937
+149,Comercial Tirado & Asociados S.Com.,"Via de Lope Bertrán 73 Apt. 16 
+Tarragona, 38873",Tarragona,-46.668137,-152.682369
+150,Alimentación Española S.L.,"Calle Elisabet Cerro 195 Piso 0 
+Murcia, 04434",Cádiz,-3.563474,79.379033
+151,Inversiones Globales S.Coop.,"Glorieta de Nayara Chacón 76
+Huelva, 46445",Melilla,45.087145,-117.080908
+152,Inversiones Posada S.L.N.E,"Avenida Narciso Recio 57
+Cáceres, 36120",La Rioja,68.29132,-90.40907
+153,Fábrica FOTJ S.L.N.E,"Callejón de Amancio Navarrete 43
+Girona, 32380",Zamora,55.350096,-115.801562
+154,Rocamora y asociados S.Coop.,"Avenida de Severiano Salamanca 669
+Zaragoza, 39578",Segovia,-8.401827,-120.643945
+155,Valls y asociados S.Com.,"Pasaje Saturnino Cámara 25 Apt. 03 
+Cáceres, 33139",Vizcaya,9.158111,113.658525
+156,Promociones Gallo & Asociados S.C.P,"Cañada de Manuel Calvo 43 Apt. 90 
+Cádiz, 50384",Alicante,-45.041891,-167.064402
+157,Sanchez y Pi S.L.N.E,"Cuesta de Juan Luis Nevado 45
+Cantabria, 07176",Baleares,35.936827,149.02158
+158,Talleres Barreda y asociados S.C.P,"Plaza Emilio Amores 65
+Segovia, 21106",Navarra,-3.884815,66.631217
+159,Promociones QWH S.L.L.,"Alameda de Jafet Carrión 546 Puerta 5 
+Huesca, 31481",Ciudad,52.945733,-167.616341
+160,Cano y asociados S.L.,"Plaza Onofre Ochoa 81 Puerta 8 
+Murcia, 47626",Córdoba,4.860027,-12.452146
+161,Lamas & Asociados S.A.,"C. de Fátima Moles 894 Apt. 01 
+Huesca, 19695",Huelva,-5.606611,77.125042
+162,Construcción TUTS S.Com.,"Rambla Ileana Albero 75 Piso 6 
+Cádiz, 35316",Palencia,65.616554,160.533801
+163,Hnos Arranz S.A.,"C. Modesto Martinez 6 Apt. 12 
+Pontevedra, 19854",Murcia,67.689851,37.150708
+164,Verdú y asociados S.A.,"Acceso de Anastasio Díez 4 Puerta 7 
+Melilla, 47347",Alicante,33.23238,162.558159
+165,Despacho GODV S.L.,"Vial Victor Manuel Velázquez 221 Apt. 63 
+Córdoba, 50906",Valencia,10.489807,155.903399
+166,Hnos Narváez S.Com.,"Cañada de Calixta Luján 5
+Madrid, 25083",Pontevedra,-81.991687,26.078301
+167,Blanch y asociados S.L.,"Ronda de Íñigo Alcalá 36
+Castellón, 08031",Álava,-82.783039,72.836677
+168,Comercial ZNRK S.A.,"C. Amelia Alegre 63 Puerta 3 
+Toledo, 49723",Córdoba,12.546554,46.34428
+169,Mercedes Grau Aliaga S.L.,"Glorieta Benjamín Gordillo 953
+Guipúzcoa, 14319",Madrid,-72.228371,107.423272
+170,Hnos Ponce S.Coop.,"Avenida de Jose Villena 4 Apt. 71 
+Asturias, 35694",Lleida,31.921646,73.678243
+171,Revilla & Asociados S.L.N.E,"Ronda de Elías Parejo 244
+Cáceres, 18787",Lleida,46.823093,147.212855
+172,Banca Privada Vall S.A.T.,"Calle Amanda Fabregat 9
+Ciudad, 39159",Cantabria,79.720081,161.335411
+173,Español & Asociados S.A.T.,"Pasadizo de Fernanda Almeida 27 Puerta 9 
+Burgos, 23729",Albacete,-78.616305,107.619368
+174,Lastra y asociados S.Com.,"Plaza de Ariel Blanca 26
+Tarragona, 41295",Ourense,56.162182,-57.771136
+175,Fábrica Serna & Asociados S.Com.,"Pasaje de Tecla Álamo 4
+Santa Cruz de Tenerife, 32360",Guadalajara,-84.526011,81.418372
+176,Hermanos Valle S.L.N.E,"Via Ámbar Meléndez 92 Puerta 5 
+Vizcaya, 51893",Asturias,32.321168,-106.816585
+177,Orozco y Vilalta S.Coop.,"C. de Jose Ramón 27
+Valencia, 28547",Murcia,23.249719,37.972356
+178,Ribes y Machado S.Com.,"Ronda de Julie Botella 43 Puerta 4 
+Teruel, 23408",Valencia,-11.540599,-166.297292
+179,Inmobiliaria AXIZ S.L.,"Camino de Chuy Rodriguez 971
+Castellón, 39758",Santa Cruz de Tenerife,50.945184,-136.596325
+180,Restauración Integrales S.Coop.,"Acceso Alejo Martín 72
+Álava, 32484",Las Palmas,-44.74345,41.443652
+181,Caballero y Gallo S.Com.,"Cuesta Eloísa Maldonado 24 Puerta 6 
+Lleida, 50947",Ourense,41.745799,-131.243673
+182,Hermanos Quintana S.L.,"C. de Ceferino Rosales 2
+Alicante, 16038",Zaragoza,29.840662,24.01728
+183,Farmaceútica Españolas S.Com.,"Pasaje de Victorino Sánchez 67 Piso 9 
+Lleida, 33977",Huesca,-62.975437,89.785084
+184,Familia España S.Com.,"Plaza Faustino Amador 22 Apt. 30 
+Cuenca, 41131",Sevilla,-84.248182,-172.902676
+185,Servicios Sanchez y asociados S.L.,"Rambla Ezequiel Rebollo 14
+La Rioja, 03762",Toledo,76.089578,-176.760139
+186,Manufacturas Montaña y asociados S.L.,"Calle de Amada Barral 6
+Alicante, 13953",Valencia,16.178331,156.249338
+187,Alimentación Avilés & Asociados S.A.,"Vial Gerónimo Gimeno 106
+Soria, 17697",Lleida,-59.077692,-94.756276
+188,Familia Doménech S.L.L.,"Plaza de Rodolfo Lara 606
+Castellón, 12534",Barcelona,42.447692,-53.730025
+189,Cintia Aguilar Cervantes S.L.L.,"Cuesta Mirta Landa 438 Apt. 63 
+Vizcaya, 06305",La Coruña,-55.350318,137.785484
+190,Hnos Lamas S.A.,"Vial Ruperta Feijoo 17
+Asturias, 04081",Cantabria,-63.739961,73.362486
+191,Jacinta Vilaplana Mercader S.A.D,"Paseo Anastasia Palomares 17
+Badajoz, 47567",Cuenca,-38.603077,14.648191
+192,Sabas Amor Fernández S.Coop.,"Paseo Rosalinda Múñiz 37 Puerta 0 
+Málaga, 46720",Jaén,15.599834,58.50968
+193,Supermercados Osorio y asociados S.L.N.E,"Cañada de Nacio Gimenez 6 Puerta 9 
+Álava, 31683",Cantabria,74.312789,-31.827309
+194,Arsenio Hernando Quintero S.L.,"Glorieta Valentina Dávila 35 Puerta 7 
+Girona, 06152",Valencia,-68.062791,-10.711236
+195,Hnos Alcolea S.Com.,"Vial de Purificación Mir 276 Puerta 5 
+Soria, 11859",Madrid,42.229623,114.90516
+196,Guillen y Prada S.Com.,"C. de Enrique Fuente 876
+Guadalajara, 36738",Badajoz,-89.830741,169.527426
+197,Comercial Ribas & Asociados S.Coop.,"Alameda Vera Valero 36 Apt. 25 
+Girona, 30417",Sevilla,-19.100403,14.205351
+198,Compañía Abad y asociados S.L.,"Alameda de Lina Almansa 731 Puerta 2 
+Ourense, 49985",Melilla,2.597668,-105.894756
+199,Familia Atienza S.Com.,"Urbanización de Leoncio Ariño 45 Apt. 25 
+La Rioja, 14107",Santa Cruz de Tenerife,47.841434,116.091379
+200,Querol y Perales S.C.P,"Paseo de Ismael Carranza 66 Apt. 17 
+Santa Cruz de Tenerife, 15065",Huelva,-2.285306,-153.353001

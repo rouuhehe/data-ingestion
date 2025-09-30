@@ -29,17 +29,12 @@ def export_mysql():
     df_users = pd.read_sql(query_users, conn)
     print("Data fetched from user")
 
-    query_application = "SELECT * FROM application;"
+    query_application = "SELECT * FROM application;" # NOW REQUEST
     df_application = pd.read_sql(query_application, conn)
     print("Data fetched from adoption_center")
 
-    query_adoption_history = "SELECT * FROM adoption_history;"
-    df_adoption_history = pd.read_sql(query_adoption_history, conn)
-    print("Data fetched from adoption_status")
-
-    csv_buffer_users = df_users.to_csv(index=False)
+    csv_buffer_users = df_users.to_csv(index=False) 
     csv_buffer_application = df_application.to_csv(index=False)
-    csv_buffer_adoption_history = df_adoption_history.to_csv(index=False)
 
     s3 = boto3.client('s3')
     
@@ -48,9 +43,6 @@ def export_mysql():
     
     s3.put_object(Bucket=S3_BUCKET, Key='applications/mysql_vaccine.csv', Body=csv_buffer_application)
     print("applications.csv uploaded to S3")
-    
-    s3.put_object(Bucket=S3_BUCKET, Key='adoption_history/mysql_adoption_center.csv', Body=csv_buffer_adoption_history)
-    print("adoption_history.csv uploaded to S3")
     
     conn.close()
     print("Database connection closed")
