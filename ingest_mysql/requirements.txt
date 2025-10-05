@@ -3,3 +3,4 @@ boto3
 SQLAlchemy
 pandas
 mysql-connector-python
+mysqlclient
