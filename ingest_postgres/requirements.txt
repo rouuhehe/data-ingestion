@@ -1,4 +1,4 @@
-boto3
-python-dotenv
-pandas
-psycopg2-binary
+python-dotenv==1.0.1
+boto3==1.28.39
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.7
