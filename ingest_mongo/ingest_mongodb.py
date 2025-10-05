@@ -22,5 +22,5 @@ data = list(collection.find({}))
 
 json_bytes = BytesIO(json.dumps(data, default=str).encode("utf-8"))
 
-s3.upload_fileobj(json_bytes, S3_BUCKET, f"mongo/{collection_name}.json")
+s3.upload_fileobj(json_bytes, S3_BUCKET, f"mongodb/{collection_name}.json")
 print("Mongo collection was exported to S3")
